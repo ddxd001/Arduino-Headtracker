@@ -8,7 +8,7 @@ MPU-6050模块
 
 PJ316 3.5mm音频视频母座
 
-![](F:\DdXd\Arduino-Headtracker\image\image1.jpg)
+![]([F:\DdXd\Arduino-Headtracker\image\image1.jpg](https://github.com/DdXd007/Arduino-Headtracker/blob/main/image/image1.jpg))
 
 ![原理图](F:\DdXd\Arduino-Headtracker\image\原理图.png)
 
